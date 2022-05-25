@@ -1,0 +1,4 @@
+*.o
+*.json
+*.a
+.DS_Store
